@@ -1,0 +1,26 @@
+{
+  "name": "api4-project",
+  "version": "1.0.0",
+  "description": "In this challenge, you will build a simple Express app and deploy it to Heroku.",
+  "main": "index.js",
+  "scripts": {
+    "server":"nodemon index.js",
+    "start":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MABYY/node-api4-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MABYY/node-api4-project/issues"
+  },
+  "homepage": "https://github.com/MABYY/node-api4-project#readme",
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "nodemon": "^2.0.14"
+  }
+}
