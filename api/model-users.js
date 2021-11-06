@@ -4,6 +4,6 @@ const find = () => {
     return db
 }
 
-mudule.exports = {
-    find,
+module.exports = {
+    find
 }
